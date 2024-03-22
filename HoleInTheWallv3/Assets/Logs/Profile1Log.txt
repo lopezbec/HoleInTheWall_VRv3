@@ -1,0 +1,269 @@
+3/22/2024
+2
+5:22:24 AM
+Score: 0
+
+2
+5:22:25 AM
+Score: 2
+
+2
+5:22:26 AM
+Score: 4
+
+2
+5:22:27 AM
+Score: 6
+
+2
+5:22:28 AM
+Score: 8
+
+2
+5:22:29 AM
+Score: -189
+
+2
+5:22:30 AM
+Score: -184
+
+2
+5:22:31 AM
+Score: -179
+
+2
+5:22:32 AM
+Score: -174
+
+2
+5:22:33 AM
+Score: -169
+
+2
+5:22:34 AM
+Score: -964
+
+2
+5:22:35 AM
+Score: -959
+
+2
+5:22:36 AM
+Score: -954
+
+2
+5:22:37 AM
+Score: -949
+
+3/22/2024
+3/22/2024
+3/22/2024
+3/22/2024
+2
+6:38:53 AM
+Score: 0
+
+2
+6:38:54 AM
+Score: 2
+
+2
+6:38:55 AM
+Score: 4
+
+2
+6:38:56 AM
+Score: 6
+
+2
+6:38:57 AM
+Score: -191
+
+2
+6:38:58 AM
+Score: -186
+
+2
+6:38:59 AM
+Score: -181
+
+2
+6:39:00 AM
+Score: -176
+
+2
+6:39:01 AM
+Score: -171
+
+2
+6:39:02 AM
+Score: -966
+
+2
+6:39:03 AM
+Score: -961
+
+2
+6:39:04 AM
+Score: -956
+
+2
+6:39:05 AM
+Score: -951
+
+3/22/2024
+2
+6:40:53 AM
+Score: 0
+
+2
+6:40:54 AM
+Score: 0
+
+2
+6:40:55 AM
+Score: 0
+
+2
+6:40:56 AM
+Score: 0
+
+2
+6:40:57 AM
+Score: 0
+
+2
+6:40:58 AM
+Score: 0
+
+2
+6:40:59 AM
+Score: 0
+
+2
+6:41:00 AM
+Score: 1
+
+2
+6:41:01 AM
+Score: 3
+
+2
+6:41:02 AM
+Score: 5
+
+2
+6:41:03 AM
+Score: 7
+
+2
+6:41:04 AM
+Score: 11
+
+2
+6:41:05 AM
+Score: 16
+
+2
+6:41:06 AM
+Score: 21
+
+2
+6:41:07 AM
+Score: 26
+
+2
+6:41:08 AM
+Score: -768
+
+2
+6:41:09 AM
+Score: -763
+
+2
+6:41:10 AM
+Score: -758
+
+2
+6:41:11 AM
+Score: -753
+
+3/22/2024
+2
+6:42:13 AM
+Score: 0
+
+2
+6:42:14 AM
+Score: 0
+
+2
+6:42:15 AM
+Score: 0
+
+2
+6:42:16 AM
+Score: 0
+
+2
+6:42:17 AM
+Score: 0
+
+2
+6:42:18 AM
+Score: 0
+
+2
+6:42:19 AM
+Score: 0
+
+2
+6:42:20 AM
+Score: 0
+
+2
+6:42:21 AM
+Score: 0
+
+2
+6:42:22 AM
+Score: 0
+
+2
+6:42:23 AM
+Score: 0
+
+2
+6:42:24 AM
+Score: 0
+
+3/22/2024
+3/22/2024
+2
+10:57:01 AM
+Score: 0
+
+2
+10:57:02 AM
+Score: 2
+
+4
+10:57:03 AM
+Collision: RedCoin (4) with mixamorig:Head at 0.059, 0.7876, 5.11
+Collision: RedCoin (3) with mixamorig:Head at 0.059, 0.9576001, 4.91
+Score: 4
+
+5
+10:57:04 AM
+Collision: RedCoin with mixamorig:Head at 0.059, 0.9276, 5.21
+Collision: RedCoin (2) with mixamorig:Spine at 0.05899995, 0.8968067, 5.567873
+Collision: RedCoin (1) with mixamorig:LeftArm at 0.02144024, 1.038122, 5.896094
+Score: 8
+
+2
+10:57:05 AM
+Score: 13
+
+3/22/2024
+3/22/2024
+3/22/2024
