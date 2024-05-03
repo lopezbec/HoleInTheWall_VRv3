@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -18,6 +19,7 @@ public class LevelSpawner : MonoBehaviour
     public GameObject EndPlanePrefab;
     private List<LevelData> levels;
     private LevelContainer levelContainer;
+    bool noMoreLevels = false;
     public LevelContainer LevelContainer { 
         private get
         {
@@ -92,10 +94,19 @@ public class LevelSpawner : MonoBehaviour
     public void SpawnNext()
     {
         if(currLevel < levels.Count) SpawnLevel(levels[currLevel++]);
-        else GameController.GameOver();
+        else noMoreLevels = true;
     }
 
+    internal bool hasLevels()
+    {
+        return !noMoreLevels;
+    }
 
+    internal void Reset()
+    {
+        noMoreLevels = false;
+        currLevel = 0;
+    }
 }
 
 

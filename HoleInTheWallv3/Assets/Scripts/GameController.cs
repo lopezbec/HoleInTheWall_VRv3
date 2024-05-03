@@ -11,6 +11,7 @@ using TMPro;
 public class GameController : MonoBehaviour
 {
     private static bool gameOn = false;
+    private static float lastLevelTimer = -1;
     private static DateTime startTime;
     private static GameObject[] levels;
     private static double speed = -2;
@@ -79,8 +80,12 @@ public class GameController : MonoBehaviour
                 level.transform.position += new Vector3(0, 0, (float)speed * Time.deltaTime);
             }
             
-            gameScore = (int)((Mathf.Abs(levels[0].transform.position.z - 10)) - gameScoreDeductions);
-            if (levels[0].transform.position.z < -280) 
+            gameScore = (int)((Mathf.Abs(levels[0].transform.position.z - 10)*2) - gameScoreDeductions + bonusPoints);
+            
+            if(lastLevelTimer < 0)
+            {
+                if (NoMoreLevels()) lastLevelTimer = Time.time;
+            } else if (Time.time - lastLevelTimer > 3)
             {
                 GameOver();
             }
@@ -109,10 +114,18 @@ public class GameController : MonoBehaviour
         
     }
 
+    private bool NoMoreLevels()
+    {
+        foreach (LevelSpawner spawner in LevelSpawner.levelSpawners)
+        {
+            if (spawner.hasLevels()) return false;
+        }
+        return true;
+    }
 
     public void ChangeEnvironment(int input)
     {
-        
+        throw new NotImplementedException();
     }
 
    
@@ -120,6 +133,7 @@ public class GameController : MonoBehaviour
     public static void EnableProfile(int ID)
     {
         Debug.Log(ID);
+        profileID = ID;
         currProfile = profileContainer.Profiles[ID];
         if(logger != null) logger.Close();
         logger = new EventLogger(Path.Combine(Application.dataPath, "Logs/Profile" + ID + "Log.txt"));
@@ -131,6 +145,7 @@ public class GameController : MonoBehaviour
     {
         gameOn = true;
         startTime = DateTime.Now;
+        GiveAchievement("First Game");
         GameObject.FindWithTag("StartMenu").SetActive(false);
         SpawnNext();
     }
@@ -176,6 +191,7 @@ public class GameController : MonoBehaviour
 
     private static void CheckHighscores()
     {
+        if (gameScore >= 1000) GiveAchievement("Score 1000");
         if (gameScore > currProfile.highScore)
         {
             currProfile.highScore = gameScore;
@@ -216,6 +232,8 @@ public class GameController : MonoBehaviour
         {
             DisplayCheck();
             currStreak++;
+            GiveAchievement("Perfect Pass");
+            if (currStreak == 5) GiveAchievement("5 Streak");
             if(currStreak > maxStreak) maxStreak = currStreak;
         } else
         {
@@ -311,7 +329,7 @@ public class GameController : MonoBehaviour
         //}
     }
 
-    public void GiveAchievement(string name)
+    public static void GiveAchievement(string name)
     {
         if (!currProfile.achievements.Contains(name)) 
         {
@@ -440,7 +458,7 @@ public class GameController : MonoBehaviour
 
     internal static void PlayerCollided()
     {
-        DeductScore(100);
+        DeductScore(10);
         DisplayX();
         currStreak = 0;
         playerCollided = true;
@@ -480,10 +498,20 @@ public class GameController : MonoBehaviour
         maxStreak = 0;
         gameScoreDeductions = 0;
         playerCollided = false;
+        lastLevelTimer = -1;
+        foreach (LevelSpawner spawner in LevelSpawner.levelSpawners)
+        {
+            spawner.Reset();
+        }
 
     }
     internal static void AddLog(string message)
     {
         logger.AddLog(message);
+    }
+
+    internal static bool getGameOn()
+    {
+        return gameOn;
     }
 }

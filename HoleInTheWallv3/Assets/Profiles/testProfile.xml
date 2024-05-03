@@ -6,18 +6,22 @@
         <string>test ach 1</string>
         <string>test ach 2</string>
         <string>test ach 3</string>
+        <string>First Game</string>
+        <string>Perfect Pass</string>
       </achievements>
-      <highScore>10</highScore>
-      <topStreak>0</topStreak>
+      <highScore>97</highScore>
+      <topStreak>4</topStreak>
     </Profile>
     <Profile>
       <achievements>
         <string>test ach 1</string>
         <string>test ach 2</string>
         <string>test ach 3</string>
+        <string>First Game</string>
+        <string>Perfect Pass</string>
       </achievements>
-      <highScore>10</highScore>
-      <topStreak>0</topStreak>
+      <highScore>133</highScore>
+      <topStreak>2</topStreak>
     </Profile>
     <Profile>
       <achievements />

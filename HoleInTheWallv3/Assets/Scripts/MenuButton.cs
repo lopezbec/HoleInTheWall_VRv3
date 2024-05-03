@@ -34,7 +34,6 @@ public class MenuButton : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         pressed--;
-        if (name == "Settings") Debug.Log(pressed);
     }
 
     private void OnEnable()
