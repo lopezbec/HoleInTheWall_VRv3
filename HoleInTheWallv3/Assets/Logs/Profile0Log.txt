@@ -1494,3 +1494,456 @@ Score: 74
 <Right Controller> - position: -0.2309653, 0.6760761, 0.6857998 rotation: 78.85063, 116.5692, 30.77548, 
 Score: 84
 
+7/12/2024
+7/12/2024
+7/12/2024
+7/12/2024
+7/12/2024
+5
+3:47:00 PM
+<Left Controller> - position: -0.5264689, 0.7488983, 0.8501947 rotation: 49.13736, 351.2412, 342.6301, 
+<Main Camera> - position: -0.2755048, 1.600224, 0.8372205 rotation: 0.9995719, 14.42149, 0.8774367, 
+<Right Controller> - position: -0.05753974, 1.700557, 1.397536 rotation: 306.3381, 29.04689, 25.51282, 
+Score: 0
+
+5
+3:47:01 PM
+<Left Controller> - position: -0.5204166, 0.7766444, 1.018438 rotation: 30.94764, 2.411513, 337.7434, 
+<Main Camera> - position: -0.2941423, 1.583463, 0.8604285 rotation: 10.38102, 3.527144, 0.4998609, 
+<Right Controller> - position: 0.1535965, 1.138922, 0.9313611 rotation: 343.693, 54.79424, 19.55648, 
+Score: 4
+
+5
+3:47:02 PM
+<Left Controller> - position: 0.3271378, 1.227901, 1.023259 rotation: 353.7549, 117.8428, 289.9757, 
+<Main Camera> - position: -0.07022519, 1.576173, 0.8752998 rotation: 9.599108, 18.7858, 356.4396, 
+<Right Controller> - position: 0.3069884, 1.248728, 0.5183266 rotation: 336.9413, 88.5528, 57.17914, 
+Score: 8
+
+5
+3:47:03 PM
+<Left Controller> - position: 0.4997169, 1.499301, 0.7267392 rotation: 354.5897, 152.0956, 251.9829, 
+<Main Camera> - position: -0.0274469, 1.580709, 0.9307575 rotation: 5.759645, 28.27567, 357.2076, 
+<Right Controller> - position: 0.524048, 1.60805, 0.5941445 rotation: 323.9872, 92.42102, 82.55325, 
+Score: 12
+
+7
+3:47:04 PM
+Collision: RedCoin (4) with mixamorig:Spine at -0.07142559, 1.035821, 0.8387029
+Collision: RedCoin (3) with mixamorig:Spine at -0.05326207, 1.03602, 0.8356894
+<Left Controller> - position: 0.5378609, 1.533631, 0.7131043 rotation: 352.5545, 152.1586, 249.9906, 
+<Main Camera> - position: 0.008407728, 1.579648, 0.9282525 rotation: 5.401249, 31.74845, 357.2836, 
+<Right Controller> - position: 0.5489138, 1.610275, 0.5827232 rotation: 324.7164, 91.24759, 86.81413, 
+Score: 16
+
+10
+3:47:05 PM
+Collision: mixamorig:RightArm with Cube (2) at 0.78, 0.389, 1.025136
+Collision: RedCoin with mixamorig:Spine at -0.05928403, 1.035373, 0.831673
+Collision: mixamorig:RightForeArm with Cube (2) at 0.78, 0.389, 1.025136
+Collision: RedCoin (2) with mixamorig:Spine at -0.069121, 1.034777, 0.8373147
+Collision: RedCoin (1) with mixamorig:Hips at -0.07262614, 0.9352114, 0.8532326
+<Left Controller> - position: 0.4720727, 1.505853, 0.8059261 rotation: 347.5927, 153.2854, 251.6684, 
+<Main Camera> - position: -0.0267921, 1.576437, 0.9478772 rotation: 7.943655, 24.67817, 357.4713, 
+<Right Controller> - position: 0.4669391, 1.547828, 0.7001547 rotation: 324.1454, 72.70503, 79.60928, 
+Score: 4
+
+5
+3:47:06 PM
+<Left Controller> - position: -0.1662392, 0.8055218, 1.0138 rotation: 24.23585, 49.21303, 314.0704, 
+<Main Camera> - position: -0.1582854, 1.580562, 0.8254521 rotation: 11.0096, 1.132339, 2.037584, 
+<Right Controller> - position: 0.0964507, 0.6735001, 0.6935616 rotation: 68.61172, 79.89122, 67.7475, 
+Score: 14
+
+5
+3:47:07 PM
+<Left Controller> - position: -0.1862479, 0.7205362, 0.9214276 rotation: 43.07211, 80.28584, 306.212, 
+<Main Camera> - position: -0.3288374, 1.575391, 0.8268116 rotation: 11.73114, 14.48542, 1.170277, 
+<Right Controller> - position: -0.3092677, 0.625351, 0.4313272 rotation: 72.72075, 197.937, 127.5041, 
+Score: 24
+
+5
+3:47:08 PM
+<Left Controller> - position: -0.2411838, 0.7053862, 0.9557562 rotation: 50.83616, 69.26443, 297.3526, 
+<Main Camera> - position: -0.3377926, 1.581724, 0.8252389 rotation: 8.51887, 14.83645, 0.5853071, 
+<Right Controller> - position: -0.3192596, 0.6440485, 0.4372247 rotation: 73.09273, 187.1662, 114.2234, 
+Score: 34
+
+5
+3:47:09 PM
+<Left Controller> - position: -0.2278459, 0.7040258, 0.9510006 rotation: 51.05035, 73.28645, 297.8526, 
+<Main Camera> - position: -0.3335659, 1.580644, 0.8201678 rotation: 8.112209, 17.9706, 1.528457, 
+<Right Controller> - position: -0.3173269, 0.6421291, 0.4351934 rotation: 67.07016, 200.8336, 129.9343, 
+Score: 44
+
+5
+3:47:10 PM
+<Left Controller> - position: -0.2115386, 0.7082586, 0.9274472 rotation: 47.8099, 83.02039, 297.407, 
+<Main Camera> - position: -0.3446255, 1.578829, 0.817291 rotation: 8.936198, 23.57622, 2.033105, 
+<Right Controller> - position: -0.354773, 0.6484237, 0.4165842 rotation: 68.64465, 186.3913, 111.2806, 
+Score: 54
+
+5
+3:47:11 PM
+<Left Controller> - position: -0.204408, 0.7047147, 0.9223514 rotation: 47.98752, 83.63982, 298.2029, 
+<Main Camera> - position: -0.3311007, 1.577113, 0.8146349 rotation: 9.179574, 23.76932, 0.9416726, 
+<Right Controller> - position: -0.3644513, 0.6462581, 0.4175547 rotation: 68.27416, 186.1571, 110.3776, 
+Score: 64
+
+7/12/2024
+7/12/2024
+7/12/2024
+5
+4:05:11 PM
+<Left Controller> - position: -0.2442417, 0.8199952, 1.149381 rotation: 349.0152, 336.3791, 352.6174, 
+<Main Camera> - position: -0.08419202, 1.285068, 0.8563372 rotation: 330.8655, 356.4743, 14.20193, 
+<Right Controller> - position: -0.05151603, 1.642681, 1.422768 rotation: 312.6675, 349.2184, 77.39301, 
+Score: 0
+
+5
+4:05:12 PM
+<Left Controller> - position: -0.2425497, 0.8492566, 1.076779 rotation: 346.9592, 334.4495, 8.544409, 
+<Main Camera> - position: -0.006749455, 1.154102, 0.769712 rotation: 6.727611, 352.7789, 5.720088, 
+<Right Controller> - position: 0.3736374, 0.9677632, 1.163056 rotation: 346.9523, 21.35534, 337.5161, 
+Score: 4
+
+5
+4:05:13 PM
+<Left Controller> - position: -0.1241218, 1.041236, 1.234198 rotation: 323.5717, 353.7235, 1.260187, 
+<Main Camera> - position: 0.02637344, 1.170756, 0.9130452 rotation: 4.802931, 351.8474, 0.8784, 
+<Right Controller> - position: 0.2685823, 1.081086, 1.239017 rotation: 315.973, 10.79794, 0.4611954, 
+Score: 8
+
+5
+4:05:14 PM
+<Left Controller> - position: -0.1353602, 1.406097, 1.563764 rotation: 323.6915, 16.37829, 332.3794, 
+<Main Camera> - position: 0.03249216, 1.589943, 1.339168 rotation: 1.494328, 2.340844, 2.28126, 
+<Right Controller> - position: 0.2881992, 1.481408, 1.519187 rotation: 313.5519, 3.707874, 17.08882, 
+Score: 12
+
+8
+4:05:15 PM
+Collision: RedCoin (4) with mixamorig:Hips at 0.03939604, 1.020533, 1.241027
+Collision: RedCoin (3) with mixamorig:Hips at -0.03242935, 0.9941483, 1.250357
+Collision: RedCoin with mixamorig:Hips at -0.06514952, 0.9682676, 1.264828
+<Left Controller> - position: -0.09213604, 1.431151, 1.585988 rotation: 318.3156, 31.16222, 329.0791, 
+<Main Camera> - position: -0.06264756, 1.596853, 1.367747 rotation: 9.217533, 4.083702, 6.269779, 
+<Right Controller> - position: 0.2959446, 1.53434, 1.508471 rotation: 316.5776, 10.72711, 27.13698, 
+Score: 17
+
+9
+4:05:16 PM
+Collision: mixamorig:LeftArm with Cube at -0.63, 0.989, 1.254009
+Collision: mixamorig:LeftForeArm with Cube at -0.63, 0.989, 1.254009
+Collision: RedCoin (2) with mixamorig:Spine at -0.06582301, 1.054574, 1.282614
+Collision: RedCoin (1) with mixamorig:Hips at -0.05568835, 1.013186, 1.28704
+<Left Controller> - position: -0.264863, 1.399518, 1.448222 rotation: 341.4589, 0.8331929, 11.54225, 
+<Main Camera> - position: -0.06632384, 1.683649, 1.222812 rotation: 7.8272, 15.40902, 4.688591, 
+<Right Controller> - position: 0.276625, 1.461711, 1.356639 rotation: 334.3763, 29.9055, 4.335649, 
+Score: 6
+
+5
+4:05:17 PM
+<Left Controller> - position: -0.04649193, 1.441851, 1.386473 rotation: 335.1944, 21.99797, 358.829, 
+<Main Camera> - position: 0.02772809, 1.697808, 1.078525 rotation: 5.315584, 20.01816, 2.593844, 
+<Right Controller> - position: 0.4304381, 1.470754, 1.127901 rotation: 330.4338, 51.20484, 1.701388, 
+Score: 16
+
+15
+4:05:18 PM
+Collision: mixamorig:LeftHand with LevelCube(Clone) at 0.5, 1, 1.740366
+Collision: mixamorig:Spine with LevelCube(Clone) at 0.5, 1, 1.602847
+Collision: mixamorig:Hips with LevelCube(Clone) at 0.5, 1, 1.533922
+Collision: mixamorig:Head with LevelCube(Clone) at 0.5, 1, 1.533922
+Collision: mixamorig:RightHand with LevelCube(Clone) at 0.5, 1, 1.394533
+Collision: mixamorig:Spine2 with LevelCube(Clone) at 0.5, 1, 1.394533
+Collision: mixamorig:RightShoulder with LevelCube(Clone) at 0.5, 1, 1.394533
+Collision: mixamorig:RightForeArm with LevelCube(Clone) at 0.5, 1, 1.394533
+Collision: mixamorig:RightArm with LevelCube(Clone) at 0.5, 1, 1.327287
+Collision: mixamorig:LeftForeArm with LevelCube(Clone) at 0.5, 1, 1.033507
+<Left Controller> - position: 0.3614029, 1.411791, 1.255033 rotation: 335.9095, 82.67772, 308.8426, 
+<Main Camera> - position: 0.02301831, 1.694947, 1.060162 rotation: 2.909613, 337.1807, 0.9304919, 
+<Right Controller> - position: 0.5101386, 1.453708, 0.8614372 rotation: 332.3332, 95.92039, 10.77754, 
+Score: -73
+
+5
+4:05:19 PM
+<Left Controller> - position: 0.4928675, 1.383684, 1.204883 rotation: 331.1247, 93.83997, 280.2278, 
+<Main Camera> - position: 0.1523957, 1.689125, 1.033891 rotation: 4.509818, 22.12624, 0.9701457, 
+<Right Controller> - position: 0.5315589, 1.533601, 0.7402015 rotation: 304.621, 117.2609, 12.34427, 
+Score: -63
+
+16
+4:05:20 PM
+Collision: mixamorig:LeftHand with LevelCube(Clone) at 0.5, 1, 1.782051
+Collision: mixamorig:LeftForeArm with LevelCube(Clone) at 0.5, 1, 1.643237
+Collision: mixamorig:Hips with LevelCube(Clone) at 0.5, 1, 1.436036
+Collision: mixamorig:Spine with LevelCube(Clone) at 0.5, 1, 1.436036
+Collision: mixamorig:Head with LevelCube(Clone) at 0.5, 1, 1.436036
+Collision: mixamorig:RightHand with LevelCube(Clone) at 0.5, 1, 1.436036
+Collision: mixamorig:LeftShoulder with LevelCube(Clone) at 0.5, 1, 1.366379
+Collision: mixamorig:Spine2 with LevelCube(Clone) at 0.5, 1, 1.366379
+Collision: mixamorig:RightShoulder with LevelCube(Clone) at 0.5, 1, 1.366379
+Collision: mixamorig:RightForeArm with LevelCube(Clone) at 0.5, 1, 1.366379
+Collision: mixamorig:RightArm with LevelCube(Clone) at 0.5, 1, 1.229443
+<Left Controller> - position: -0.1472449, 1.483691, 1.238935 rotation: 312.1475, 333.1453, 334.8271, 
+<Main Camera> - position: 0.1329291, 1.692456, 0.9798403 rotation: 3.123504, 329.3295, 1.808791, 
+<Right Controller> - position: 0.08927156, 1.313715, 1.268933 rotation: 1.082552, 312.0475, 38.02318, 
+Score: -163
+
+5
+4:05:21 PM
+<Left Controller> - position: -0.3491122, 1.444259, 1.228098 rotation: 335.1457, 322.5455, 16.61466, 
+<Main Camera> - position: 0.140745, 1.68952, 0.9936496 rotation: 4.485307, 2.542034, 2.283423, 
+<Right Controller> - position: 0.5492688, 1.473966, 1.258543 rotation: 336.6042, 20.8637, 358.0638, 
+Score: -153
+
+14
+4:05:22 PM
+Collision: mixamorig:RightHand with LevelCube(Clone) at 0.5, 1, 1.569298
+Collision: mixamorig:Spine with LevelCube(Clone) at 0.5, 1, 1.498448
+Collision: mixamorig:Hips with LevelCube(Clone) at 0.5, 1, 1.498448
+Collision: mixamorig:RightForeArm with LevelCube(Clone) at 0.5, 1, 1.498448
+Collision: mixamorig:Head with LevelCube(Clone) at 0.5, 1, 1.429036
+Collision: mixamorig:LeftShoulder with LevelCube(Clone) at 0.5, 1, 1.292248
+Collision: mixamorig:Spine2 with LevelCube(Clone) at 0.5, 1, 1.292248
+Collision: mixamorig:RightShoulder with LevelCube(Clone) at 0.5, 1, 1.292248
+Collision: mixamorig:RightArm with LevelCube(Clone) at 0.5, 1, 1.292248
+<Left Controller> - position: -0.6115216, 1.669935, 0.9957836 rotation: 324.3979, 266.4551, 24.36942, 
+<Main Camera> - position: 0.1624261, 1.687325, 0.9851735 rotation: 4.422028, 10.50049, 1.555127, 
+<Right Controller> - position: 0.8740677, 1.73875, 1.012418 rotation: 320.0388, 83.98562, 353.3941, 
+Score: -233
+
+7/12/2024
+5
+4:10:02 PM
+<Left Controller> - position: -0.2602304, 0.7052189, 0.6257244 rotation: 59.5996, 318.7401, 316.695, 
+<Main Camera> - position: -0.05770285, 1.606816, 0.7370234 rotation: 358.3354, 358.8876, 3.877455, 
+<Right Controller> - position: -0.0672279, 1.676352, 1.382844 rotation: 305.1865, 312.5812, 114.1526, 
+Score: 0
+
+5
+4:10:03 PM
+<Left Controller> - position: -0.153354, 0.7775021, 0.8369996 rotation: 34.60669, 18.27767, 354.1794, 
+<Main Camera> - position: -0.03230221, 1.600442, 0.7146581 rotation: 5.208901, 2.466286, 0.3736052, 
+<Right Controller> - position: 0.2076818, 0.9753985, 0.8920856 rotation: 19.52878, 16.60804, 351.3938, 
+Score: 4
+
+5
+4:10:04 PM
+<Left Controller> - position: 0.4874665, 1.279964, 0.7488711 rotation: 330.818, 108.1813, 283.6295, 
+<Main Camera> - position: 0.03205223, 1.597281, 0.6544046 rotation: 4.975657, 22.1828, 358.2748, 
+<Right Controller> - position: 0.5390946, 1.292343, 0.5523657 rotation: 330.9916, 68.41148, 56.4753, 
+Score: 8
+
+5
+4:10:05 PM
+<Left Controller> - position: 0.5921409, 1.549699, 0.4822045 rotation: 332.3966, 160.3385, 226.8451, 
+<Main Camera> - position: 0.004969992, 1.587016, 0.7604944 rotation: 7.585824, 20.16034, 356.9757, 
+<Right Controller> - position: 0.5747815, 1.519701, 0.3523183 rotation: 326.943, 95.19208, 83.58078, 
+Score: 12
+
+7
+4:10:06 PM
+Collision: RedCoin (4) with mixamorig:Spine at -0.06207378, 1.049488, 0.668236
+Collision: RedCoin (3) with mixamorig:Spine at -0.09153026, 1.052611, 0.6670842
+<Left Controller> - position: 0.5105736, 1.599663, 0.403377 rotation: 335.4755, 163.0507, 231.6907, 
+<Main Camera> - position: 0.01173895, 1.599671, 0.6866742 rotation: 3.24729, 77.75898, 359.4181, 
+<Right Controller> - position: 0.4643675, 1.570884, 0.3030363 rotation: 326.396, 98.95154, 86.5789, 
+Score: 16
+
+8
+4:10:07 PM
+Collision: RedCoin with mixamorig:Spine at -0.1251086, 1.050087, 0.6531065
+Collision: RedCoin (2) with mixamorig:Spine at -0.1272129, 1.050983, 0.6534991
+Collision: RedCoin (1) with mixamorig:Spine at -0.1137032, 1.051941, 0.6517127
+<Left Controller> - position: 0.4686505, 1.581293, 0.4965226 rotation: 331.7208, 165.3216, 228.9316, 
+<Main Camera> - position: -0.002789556, 1.596203, 0.705723 rotation: 5.19598, 55.75004, 357.8185, 
+<Right Controller> - position: 0.477174, 1.577121, 0.4474231 rotation: 321.8651, 81.42343, 77.35252, 
+Score: 23
+
+5
+4:10:08 PM
+<Left Controller> - position: 0.002458154, 1.337334, 0.8839974 rotation: 309.1214, 359.0268, 345.6935, 
+<Main Camera> - position: 0.06670269, 1.602673, 0.6320727 rotation: 6.43406, 4.278765, 2.452567, 
+<Right Controller> - position: 0.25345, 1.209691, 0.833203 rotation: 336.2043, 12.56921, 16.58271, 
+Score: 33
+
+9
+4:10:09 PM
+Collision: mixamorig:RightHand with LevelCube(Clone) at 0.5, 1, 1.048835
+Collision: mixamorig:RightForeArm with LevelCube(Clone) at 0.5, 1, 0.9793065
+Collision: mixamorig:RightShoulder with LevelCube(Clone) at 0.5, 1, 0.9092807
+Collision: mixamorig:RightArm with LevelCube(Clone) at 0.5, 1, 0.9092807
+<Left Controller> - position: -0.1772036, 1.456022, 0.7055746 rotation: 286.3498, 256.8003, 133.044, 
+<Main Camera> - position: -0.2774229, 1.597362, 0.6323014 rotation: 6.583127, 18.64324, 3.750585, 
+<Right Controller> - position: -0.1094915, 1.438361, 0.4655536 rotation: 277.507, 156.9955, 294.3058, 
+Score: 3
+
+5
+4:10:10 PM
+<Left Controller> - position: -0.2254323, 1.455513, 0.7353731 rotation: 283.8252, 279.343, 100.9259, 
+<Main Camera> - position: -0.2929395, 1.594119, 0.6226122 rotation: 7.540483, 7.396182, 2.446234, 
+<Right Controller> - position: -0.1063654, 1.415741, 0.5555914 rotation: 283.2769, 25.59552, 45.20605, 
+Score: 13
+
+5
+4:10:11 PM
+<Left Controller> - position: -0.1353021, 0.6978326, 0.6923676 rotation: 60.88103, 92.12893, 310.3638, 
+<Main Camera> - position: -0.3029815, 1.597727, 0.6348585 rotation: 6.842803, 35.58839, 2.465533, 
+<Right Controller> - position: -0.4029059, 0.6620629, 0.2392674 rotation: 79.29068, 185.6721, 94.15004, 
+Score: 23
+
+5
+4:10:12 PM
+<Left Controller> - position: -0.1616603, 0.7039402, 0.7048405 rotation: 61.01035, 98.08811, 305.9905, 
+<Main Camera> - position: -0.3208216, 1.596783, 0.6610792 rotation: 6.8976, 38.7328, 0.8482369, 
+<Right Controller> - position: -0.37319, 0.6668864, 0.2572835 rotation: 78.16248, 152.7282, 48.2088, 
+Score: 33
+
+5
+4:10:13 PM
+<Left Controller> - position: -0.1809601, 0.6975176, 0.7049142 rotation: 65.15011, 91.035, 305.6802, 
+<Main Camera> - position: -0.3165534, 1.598264, 0.6399285 rotation: 6.581341, 35.79631, 1.145817, 
+<Right Controller> - position: -0.3482209, 0.6681964, 0.2541491 rotation: 72.006, 144.2201, 47.96291, 
+Score: 43
+
+5
+4:10:14 PM
+<Left Controller> - position: -0.1804757, 0.700512, 0.7018748 rotation: 62.89337, 91.61207, 309.3675, 
+<Main Camera> - position: -0.3120243, 1.594179, 0.6374548 rotation: 7.89263, 33.40738, 359.9254, 
+<Right Controller> - position: -0.355547, 0.6699116, 0.2410235 rotation: 70.57252, 145.0627, 51.616, 
+Score: 53
+
+7/12/2024
+7/12/2024
+5
+5:00:20 PM
+<Left Controller> - position: -0.3279976, 1.18599, 0.6992961 rotation: 348.722, 303.7916, 356.3027, 
+<Main Camera> - position: 0.07117195, 1.622375, 0.7900616 rotation: 359.1149, 347.9166, 4.563498, 
+<Right Controller> - position: -0.007961938, 1.639916, 1.373052 rotation: 304.8394, 310.4824, 107.9875, 
+Score: 0
+
+5
+5:00:21 PM
+<Left Controller> - position: -0.4848943, 1.250526, 0.6340449 rotation: 352.6666, 344.3155, 357.5982, 
+<Main Camera> - position: -0.21232, 1.711323, 0.4548447 rotation: 2.720917, 356.989, 0.6288392, 
+<Right Controller> - position: 0.1172095, 1.244041, 0.7012317 rotation: 6.932902, 30.82752, 345.4688, 
+Score: 4
+
+5
+5:00:22 PM
+<Left Controller> - position: -0.7463068, 1.254964, -1.180402 rotation: 352.3918, 347.7785, 5.660776, 
+<Main Camera> - position: -0.5138692, 1.717459, -1.392009 rotation: 2.56415, 356.727, 1.20544, 
+<Right Controller> - position: -0.234039, 1.255888, -1.117149 rotation: 2.103999, 22.10183, 354.5369, 
+Score: 8
+
+5
+5:00:23 PM
+<Left Controller> - position: -0.5596161, 1.257782, -1.499489 rotation: 350.948, 353.0176, 0.4863865, 
+<Main Camera> - position: -0.3502098, 1.715458, -1.720012 rotation: 3.437493, 359.927, 0.422175, 
+<Right Controller> - position: -0.07424673, 1.237138, -1.456517 rotation: 4.676838, 22.28069, 356.4749, 
+Score: 12
+
+5
+5:00:24 PM
+<Left Controller> - position: 0.2236525, 1.477204, -1.55312 rotation: 335.4079, 114.5966, 283.8594, 
+<Main Camera> - position: -0.2151223, 1.716025, -1.688035 rotation: 4.195394, 63.04163, 1.845328, 
+<Right Controller> - position: 0.2661399, 1.49986, -1.906419 rotation: 330.6108, 78.32568, 69.42099, 
+Score: 16
+
+6
+5:00:25 PM
+Collision: RedCoin (4) with mixamorig:Hips at -0.3106198, 1.066822, -1.667044
+<Left Controller> - position: 0.3337238, 1.524226, -1.720931 rotation: 339.0288, 133.9604, 276.5175, 
+<Main Camera> - position: -0.1988388, 1.706106, -1.693988 rotation: 7.131398, 106.5434, 2.767838, 
+<Right Controller> - position: 0.2943501, 1.561353, -1.941078 rotation: 332.9635, 85.85577, 82.13389, 
+Score: 20
+
+13
+5:00:26 PM
+Collision: RedCoin (3) with mixamorig:Hips at -0.2993147, 1.065767, -1.66247
+Collision: mixamorig:Spine2 with Cube at -0.63, 0.989, -1.138872
+Collision: mixamorig:Head with Cube (1) at 0.203, 2.349, -1.620313
+Collision: mixamorig:RightForeArm with Cube (1) at 0.203, 2.349, -1.701048
+Collision: mixamorig:RightHand with Cube (1) at 0.203, 2.349, -1.701048
+Collision: mixamorig:LeftHand with Cube (1) at 0.203, 2.349, -1.701048
+Collision: mixamorig:RightShoulder with Cube (1) at 0.203, 2.349, -1.78003
+Collision: mixamorig:RightArm with Cube (1) at 0.203, 2.349, -1.78003
+<Left Controller> - position: 1.625478, 2.08067, -0.08838126 rotation: 339.2479, 132.1638, 270.2072, 
+<Main Camera> - position: 1.094037, 2.276854, -0.03637856 rotation: 6.704318, 106.8595, 3.03677, 
+<Right Controller> - position: 1.581845, 2.12261, -0.2954786 rotation: 334.2968, 87.30728, 80.30519, 
+Score: -43
+
+5
+5:00:27 PM
+<Left Controller> - position: 2.177194, 1.496795, 0.2678638 rotation: 340.5439, 123.66, 274.87, 
+<Main Camera> - position: 1.638058, 1.703406, 0.2699962 rotation: 6.551529, 101.6157, 2.204109, 
+<Right Controller> - position: 2.141448, 1.533814, 0.06933481 rotation: 335.3894, 81.40712, 78.46698, 
+Score: -38
+
+5
+5:00:28 PM
+<Left Controller> - position: 3.428622, 1.48742, 1.183093 rotation: 341.822, 121.7401, 276.3047, 
+<Main Camera> - position: 2.892284, 1.702585, 1.161508 rotation: 6.96667, 99.83541, 1.54079, 
+<Right Controller> - position: 3.401988, 1.509075, 0.9741727 rotation: 337.3589, 80.72449, 76.06506, 
+Score: -32
+
+5
+5:00:29 PM
+<Left Controller> - position: 4.927341, 1.478593, 1.867766 rotation: 342.031, 118.8416, 276.5527, 
+<Main Camera> - position: 4.387882, 1.701866, 1.83612 rotation: 7.234537, 99.3756, 1.304194, 
+<Right Controller> - position: 4.895959, 1.490541, 1.652765 rotation: 338.591, 80.72868, 74.6984, 
+Score: -26
+
+5
+5:00:30 PM
+<Left Controller> - position: 6.614503, 1.449976, 3.092354 rotation: 343.9618, 118.788, 275.9481, 
+<Main Camera> - position: 6.088274, 1.700956, 3.047871 rotation: 8.347854, 88.14926, 0.75961, 
+<Right Controller> - position: 6.593218, 1.462461, 2.86385 rotation: 340.6585, 79.93927, 71.09725, 
+Score: -20
+
+5
+5:00:31 PM
+<Left Controller> - position: 6.276403, 1.205005, 4.182328 rotation: 5.625302, 55.52007, 353.9173, 
+<Main Camera> - position: 6.030261, 1.694301, 3.942066 rotation: 9.349866, 0.57839, 358.2986, 
+<Right Controller> - position: 6.410968, 1.228066, 3.902336 rotation: 11.34938, 47.23388, 346.8028, 
+Score: -14
+
+5
+5:00:32 PM
+<Left Controller> - position: 4.700701, 1.192457, 3.810565 rotation: 8.073993, 340.4933, 1.774454, 
+<Main Camera> - position: 4.908429, 1.698889, 3.587496 rotation: 11.07889, 317.1082, 1.593617, 
+<Right Controller> - position: 5.058981, 1.244782, 3.910366 rotation: 9.219222, 345.3435, 5.482246, 
+Score: -9
+
+5
+5:00:33 PM
+<Left Controller> - position: 2.76546, 1.189419, 3.222864 rotation: 7.179197, 338.185, 5.153698, 
+<Main Camera> - position: 3.005352, 1.702796, 3.014015 rotation: 9.253181, 329.0218, 1.638279, 
+<Right Controller> - position: 3.153347, 1.231864, 3.339066 rotation: 9.04637, 347.2541, 4.98996, 
+Score: -3
+
+5
+5:00:34 PM
+<Left Controller> - position: 0.8413741, 1.187381, 3.029461 rotation: 6.136215, 342.5787, 2.839685, 
+<Main Camera> - position: 1.080229, 1.703957, 2.817838 rotation: 8.121223, 338.5025, 0.1407598, 
+<Right Controller> - position: 1.220026, 1.226779, 3.131025 rotation: 9.79292, 349.5791, 4.878776, 
+Score: 2
+
+14
+5:00:35 PM
+Collision: mixamorig:LeftHand with LevelCube(Clone) at 0.5, 1, 3.320282
+Collision: mixamorig:LeftForeArm with LevelCube(Clone) at 0.5, 1, 3.239481
+Collision: mixamorig:Spine with LevelCube(Clone) at 0.5, 1, 3.239481
+Collision: mixamorig:Hips with LevelCube(Clone) at 0.5, 1, 3.159656
+Collision: mixamorig:Head with LevelCube(Clone) at 0.5, 1, 3.159656
+Collision: mixamorig:LeftArm with LevelCube(Clone) at 0.5, 1, 3.119217
+Collision: mixamorig:LeftShoulder with LevelCube(Clone) at 0.5, 1, 3.038597
+Collision: mixamorig:Spine2 with LevelCube(Clone) at 0.5, 1, 2.637702
+Collision: mixamorig:RightShoulder with LevelCube(Clone) at 0.5, 1, 2.397034
+<Left Controller> - position: 0.07076776, 1.182594, 2.994547 rotation: 4.27693, 345.8532, 357.4077, 
+<Main Camera> - position: 0.29891, 1.702144, 2.7746 rotation: 8.793218, 349.3422, 0.4516861, 
+<Right Controller> - position: 0.4397327, 1.231799, 3.083555 rotation: 9.552824, 352.1522, 5.668892, 
+Score: -81
+
