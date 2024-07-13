@@ -8024,7 +8024,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018496056}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 3.06}
+  m_LocalPosition: {x: 0, y: 0, z: 3}
   m_LocalScale: {x: 0.0038847737, y: 0.0043716435, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8034,7 +8034,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 2.48}
+  m_AnchoredPosition: {x: 14, y: 3}
   m_SizeDelta: {x: 1178, y: 506}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1018496058
@@ -10050,6 +10050,7 @@ MonoBehaviour:
   avatarCamera: {fileID: 2000252384}
   canvas: {fileID: 1018496060}
   canvasFollow: {fileID: 1093317134}
+  showInXR: 0
 --- !u!4 &1331309611
 Transform:
   m_ObjectHideFlags: 0
@@ -14501,7 +14502,7 @@ GameObject:
   - component: {fileID: 2000252386}
   - component: {fileID: 2000252385}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: AvatarCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14549,7 +14550,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
+  m_TargetDisplay: 1
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
@@ -14609,7 +14610,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2000252383}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!4 &2000252387
 Transform:
   m_ObjectHideFlags: 0
@@ -14619,7 +14620,7 @@ Transform:
   m_GameObject: {fileID: 2000252383}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -13.007, y: 6.38, z: -4.79}
+  m_LocalPosition: {x: 0.04, y: 1.35, z: 1.96}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -24312,7 +24313,6 @@ SceneRoots:
   - {fileID: 247655382}
   - {fileID: 1376021107}
   - {fileID: 307226220}
-  - {fileID: 3493470814138602349}
   - {fileID: 1065259259}
   - {fileID: 1555390378}
   - {fileID: 1813141990}
@@ -24323,3 +24323,4 @@ SceneRoots:
   - {fileID: 221336171}
   - {fileID: 253261082}
   - {fileID: 1331309611}
+  - {fileID: 3493470814138602349}
