@@ -6,17 +6,21 @@ using UnityEngine.UI;
 public class TestingCameras : MonoBehaviour
 {
     public RawImage cameraImage;
+    public RawImage XRcameraImage;
     private WebCamTexture webcamTexture;
 
     public RawImage avatarImage;
+    public RawImage XRavatarImage;
     public Camera avatarCamera;
     private RenderTexture renderTexture;
 
     public Canvas canvas;
-    public GameObject canvasFollow;
+    public Canvas XRcanvas;
+    public GameObject XRcanvasFollow;
     private float distance = 3f;
 
     public bool showInXR = true;
+    public bool cameraFollowAvatar = false;
 
     // Start is called before the first frame update
     void Start()
@@ -25,16 +29,19 @@ public class TestingCameras : MonoBehaviour
         webcamTexture = new WebCamTexture();
         cameraImage.texture = webcamTexture;
         cameraImage.material.mainTexture = webcamTexture;
+        XRcameraImage.texture = webcamTexture;
+        XRcameraImage.material.mainTexture = webcamTexture;
         webcamTexture.Play();
 
         //camera for showing the avatars movements
         renderTexture = new RenderTexture(Screen.width, Screen.height, 16);
         avatarCamera.targetTexture = renderTexture;
         avatarImage.texture = renderTexture;
+        XRavatarImage.texture = renderTexture;
 
         //moving the images to see the camera images
-        if (showInXR) canvas.transform.position = canvasFollow.transform.position + new Vector3(0, 0, distance);
-        else canvas.transform.position = new Vector3(14, 3, 3);
+        if (showInXR) XRcanvas.transform.position = XRcanvasFollow.transform.position + new Vector3(0, 0, distance);
+        canvas.transform.position = new Vector3(14, 3, 3);
     }
 
     void OnDestroy()
@@ -47,13 +54,13 @@ public class TestingCameras : MonoBehaviour
     {
         if (showInXR)
         {
-            Vector3 inFrontOfCamera = canvasFollow.transform.position + canvasFollow.transform.forward * distance;
+            Vector3 inFrontOfCamera = XRcanvasFollow.transform.position + XRcanvasFollow.transform.forward * distance;
             //Update the object's position
-            canvas.transform.position = inFrontOfCamera;
+            XRcanvas.transform.position = inFrontOfCamera;
             //make the object face the same direction as the camera
-            canvas.transform.rotation = canvasFollow.transform.rotation;
+            XRcanvas.transform.rotation = XRcanvasFollow.transform.rotation;
         }
         //move the camera that is facing the image
-        avatarCamera.transform.position = canvasFollow.transform.position + new Vector3(0, 0, 3.05f);
+        if(cameraFollowAvatar) avatarCamera.transform.position = XRcanvasFollow.transform.position + new Vector3(0, 0, 3.05f);
     }
 }
